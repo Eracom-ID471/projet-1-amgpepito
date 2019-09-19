@@ -1,0 +1,28 @@
+ul nav navbar-nav {
+
+}
+
+.moi img {
+}
+
+.container-moi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.container-moi img {
+  border-color: ;
+}
+
+.texte p {
+    font-size: 16px;
+    margin-top: 75px;
+  }
+
+h1 {
+  font-size: 40px;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+}
